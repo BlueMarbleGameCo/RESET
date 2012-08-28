@@ -10,6 +10,7 @@ public class FirstTest : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        Debug.Log("THERE IS NO SPOON");
 	
 	}
 }
